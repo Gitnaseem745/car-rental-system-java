@@ -215,4 +215,4 @@ Manages the rental system operations.
 
 ---
 
-*This README was generated to provide a comprehensive overview of the Car Rental System project, detailing its features, structure, and usage instructions in a format suitable for GitHub.*
+*This README was created to provide a comprehensive overview of the Car Rental System project, detailing its features, structure, and usage instructions.*
