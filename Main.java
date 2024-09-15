@@ -223,9 +223,9 @@ public class Main{
     public static void main(String[] args){
         CarRentalSystem rentalSystem = new CarRentalSystem();
         Car[] cars = {
-            new Car("C001", "Toyota", "Camry", 60.0),
-            new Car("C002", "Honda", "Accord", 70.0),
-            new Car("C003", "Mahindra", "Thar", 150.0),
+            new Car("C001", "Bentley", "Flying Spur", 350.0),
+            new Car("C002", "Rolls-Royce", "Phantom", 500.0),
+            new Car("C003", "Lamborghini", "Aventador", 450.0),
             new Car("C004", "Ford", "Focus", 55.0),
             new Car("C005", "Chevrolet", "Malibu", 65.0),
             new Car("C006", "BMW", "3 Series", 120.0),
@@ -240,7 +240,27 @@ public class Main{
             new Car("C015", "Tesla", "Model 3", 150.0),
             new Car("C016", "Volvo", "S60", 110.0),
             new Car("C017", "Jaguar", "XE", 130.0),
-            new Car("C018", "Lexus", "IS", 125.0)
+            new Car("C018", "Lexus", "IS", 125.0),
+            new Car("C019", "Porsche", "911", 200.0),
+            new Car("C020", "Ferrari", "488 Spider", 300.0),
+            new Car("C021", "Lamborghini", "Huracán", 320.0),
+            new Car("C022", "McLaren", "720S", 310.0),
+            new Car("C023", "Aston Martin", "DB11", 250.0),
+            new Car("C024", "Bentley", "Continental GT", 270.0),
+            new Car("C025", "Rolls-Royce", "Ghost", 400.0),
+            new Car("C026", "Alfa Romeo", "Giulia", 90.0),
+            new Car("C027", "Dodge", "Charger", 80.0),
+            new Car("C028", "Jeep", "Wrangler", 85.0),
+            new Car("C029", "Mini", "Cooper", 75.0),
+            new Car("C030", "Toyota", "Corolla", 55.0),
+            new Car("C031", "Honda", "Civic", 60.0),
+            new Car("C032", "Ford", "Mustang", 100.0),
+            new Car("C033", "Chevrolet", "Camaro", 105.0),
+            new Car("C034", "BMW", "5 Series", 130.0),
+            new Car("C035", "Audi", "A6", 135.0),
+            new Car("C036", "Mercedes-Benz", "E-Class", 140.0),
+            new Car("C037", "Hyundai", "Sonata", 60.0),
+            new Car("C038", "Kia", "Sorento", 65.0)
         };
 
         for(Car car : cars){
